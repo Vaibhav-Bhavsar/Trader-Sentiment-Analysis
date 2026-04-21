@@ -1,7 +1,5 @@
 # Trader Performance vs Market Sentiment — Hyperliquid
 
-Primetrade.ai Data Science Intern Assignment
-
 ---
 
 ## Setup
